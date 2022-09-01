@@ -1,14 +1,20 @@
 .flippable-card-container{
     display: grid;
-    grid-template-columns: repeat(5,1fr);
-    grid-gap: 30px;
-    width: 90%;
-    margin: 100px auto;
+    grid-template-columns: repeat(5,.5fr);
+
+    grid-gap: 20px;
+
+  
+   
+  
+
+
    
 }
 main{
     margin-top: 50px;
-    width: 100%;
+
+ 
     
 }
 h2{
