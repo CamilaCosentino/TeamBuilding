@@ -8,6 +8,6 @@ export const preguntas = [
     {id:7,pregunta: "¿Qué haces en tus tiempos libres cuando no estás trabajando?"},
     {id:8, pregunta:"Si fueses un animal ¿Cuál serías?"},
     {id:9,pregunta: "¿Qué te inspiró a prepararte y adquirir los conocimientos con los que cuentas en este momento?"},
-    {id:10, pregunta:"¿Cual es tu animal favorito ?"},
+    {id:10, pregunta:"Cuál es su filósofo favorito y por qué?"},
    
 ]
